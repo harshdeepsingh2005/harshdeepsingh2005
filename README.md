@@ -1,85 +1,146 @@
-# Hi, I'm Harshdeep Singh! 👋
+<!-- Animated Typing Header -->
+<h1 align="center">Hi 👋, I'm Harshdeep Singh</h1>
 
-Welcome to my GitHub profile! I'm an aspiring AI/ML engineer currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at Lovely Professional University. I have a passion for building innovative projects and exploring the intersections of technology and creativity.
-
----
-
-## 🌟 About Me
-- 🧠 **Learning:** Actively enhancing my skills in AI, ML, and Data Science through academic coursework and practical projects.
-- 📚 **Education:** Enrolled in a Data Science program from IIT Guwahati and taking classes from Daksh Gurukul in collaboration with IIT Guwahati and Masai School.
-- 💻 **HackerRank:**
-  - **5⭐ in Python**
-  - **4⭐ Rating in C**
-  - **5⭐ in Python (since November 2023)**
-- 🤝 **Open to Opportunities:** Looking for exciting roles and collaborations in AI/ML and related fields.
-- 🌐 **Philosophy:** Believe in learning by doing and continuously pushing boundaries to explore the latest innovations in technology.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+Training;Open+Source+Contributor;Full+Stack+Learner;Always+Exploring+New+Tech;Let's+Build+Something+Cool!">
+</p>
 
 ---
 
-## 🔧 Skills & Technologies
-- **Programming Languages:** Python, JavaScript, C, Java, HTML, CSS
-- **AI/ML Tools:** Sentiment Analysis (GoEmotions Dataset), VADER, FinBERT
-- **Frameworks & APIs:** Alpaca API
-- **Other Skills:** Data Structures & Algorithms, Peer-to-Peer Protocols, Local Area Networks
-- **Soft Skills:** Problem-solving, teamwork, and effective communication
+<!-- Social Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/harshdeepsingh2005?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/harshdeepsingh2005?style=for-the-badge&logo=github" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=harshdeepsingh2005&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HackerRank-⭐⭐⭐⭐⭐-brightgreen?style=for-the-badge&logo=hackerrank" />
+</p>
 
 ---
 
-## 💡 Projects
-1. **[Reddit-based Stock Trading Bot](#)**
-   - Monitored r/wallstreet for stock mentions and performed sentiment analysis.
-   - Utilized Alpaca API for automated trading decisions.
-   - Simulated trades based on sentiment using VADER and FinBERT.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=header" />
 
-2. **[Electric Vehicle Users Assistance](#)**
-   - Built tools for charging time and range calculations.
-   - Developed interactive interfaces using HTML, CSS, JavaScript, and JSP.
+## 🌟 About Me  
 
-3. **[Waste Management System (WMS)](#)**
-   - Created a calendar for trash disposal reminders.
-   - Designed user-friendly pages with HTML, CSS, and JavaScript.
-
-4. **[BLUR Box - A Movie Rental and Booking Website](#)**
-   - Designed a seamless experience for renting movies and booking cinema tickets.
-   - Incorporated a pre-booking feature for snacks.
+- 🎓 **AI/ML Student @ Lovely Professional University (LPU)**  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, NLP, and Reinforcement Learning**  
+- 🚀 Currently building **CX-Twin** – a simulation engine for customer journeys using **Deep Q-Networks**  
+- 🧠 Preparing **AI/ML Research Papers** for 2025  
+- 🏆 Participant in **Google Chrome Built-in AI Challenge 2025**  
+- 🌍 Love creating **real-world impactful projects** that merge AI + Web Dev  
 
 ---
 
-## 🎯 Current Goals
-- Building a multi-label emotion classification model with the GoEmotions dataset.
-- Developing a dark mode GUI simulator for page replacement algorithms (FIFO, LRU, OPTIMAL).
-- Mastering Java concepts including OOP, I/O, exceptions, and generics.
-- Expanding knowledge in cloud technologies and DevOps to enhance AI/ML deployment capabilities.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9472,100:f2709c&height=100&section=header" />
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,c,js,html,css,react,git,docker,linux,vscode" />
+</p>
 
 ---
 
-## 🛠️ Skills
-### Programming
-- Python
-- JavaScript
-- C
-- Java
-- HTML & CSS
+### 💻 Skills in Depth  
 
-### Tools & Frameworks
-- Alpaca API
-- VADER, FinBERT for Sentiment Analysis
-
-### Other Skills
-- Data Structures & Algorithms
-- Peer-to-Peer Protocols
-- Local Area Networks
-
-### Soft Skills
-- Problem-solving
-- Teamwork
-- Effective Communication
+| Category | Tools & Frameworks |
+|----------|--------------------|
+| **Programming** | Python • Java • C • JavaScript • HTML • CSS |
+| **AI / ML** | PyTorch • TensorFlow • scikit-learn • Hugging Face • NLP (VADER, FinBERT, GoEmotions) |
+| **Data Science** | Pandas • NumPy • Matplotlib • Seaborn |
+| **DevOps & Cloud** | Docker • GitHub Actions • AWS (Learning) |
+| **Networks** | Peer-to-Peer • Local Area Networks |
+| **Other** | APIs • OOP • DSA • Model Evaluation & Metrics |
 
 ---
 
-## 📫 Let's Connect
-- **LinkedIn:** [Harshdeep Singh](https://linkedin.com/in/harshdeep-singh)
-- **Email:** harshdeep@example.com (Replace with your actual email)
-- **Portfolio:** (Add your portfolio link if available)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=100&section=header" />
 
-Thank you for visiting my profile! 😊
+## 📂 Highlight Projects  
+
+| Project | Description | Tech Stack | Highlight |
+|--------|----------------|-------------------|--------------------------|
+| 🚀 **Reddit Stock Bot** | Tracks Reddit mentions, classifies sentiment, simulates trades with Alpaca API | Python · VADER · FinBERT · Alpaca API | End-to-end pipeline: text → sentiment → trading decisions |
+| ⚡ **EV User Assistant** | Estimates EV charging time & driving range | HTML · CSS · JavaScript · JSP | Clean, user-friendly tool |
+| ♻️ **Waste Management System** | Reminder-based waste disposal system | HTML · JS · CSS | Useful civic impact, calendar-based alerts |
+| 🎬 **BLUR Box** | Movie booking + snack pre-booking website | Full-stack Web | Seamless booking flow, good UX |
+
+👉 *See more projects in my [repositories](https://github.com/harshdeepsingh2005?tab=repositories)*  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="500px" alt="AI Animation" />
+</p>
+
+---
+
+## 🤖 AI / ML Journey  
+
+- ✔ Built **multi-label classifiers** with GoEmotions dataset  
+- ✔ Compared **VADER vs FinBERT** for sentiment analysis  
+- ✔ Designed **pipelines**: data collection → preprocessing → modeling → evaluation  
+- ✔ Exploring **Reinforcement Learning (Q-learning, DQN)** for customer simulations  
+- ✔ Working on **CX-Twin**: advanced AI engine for predicting customer churn/journeys  
+- ✔ Learning **model explainability, bias detection, fairness in AI**  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=100&section=header" />
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshdeepsingh2005&theme=tokyonight&hide_border=false" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdeepsingh2005&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Extras  
+
+- 🎖 HackerRank **5⭐ Python, 4⭐ C**  
+- 🏅 Participant in **Google Chrome Built-in AI Challenge 2025**  
+- 📖 Preparing **Research Papers in AI/ML**  
+- 🎤 Sharing projects on **AI + Customer Simulation**  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+## 🎶 Fun Zone  
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mivm7vzvm6azgvj5a7byqdy2v4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshdeepsingh2005">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/harshdeepsingh2005">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ From [Harshdeep Singh](https://github.com/harshdeepsingh2005)  
