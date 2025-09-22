@@ -8,14 +8,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=Hey+There!+👋;I'm+Harshdeep+Singh;AI/ML+Engineer+🤖;Full+Stack+Developer+🌐;Hackathon+Builder+🏆;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
-<!-- Floating Bubbles GIF -->
+<!-- Fake Floating Bubbles using badges -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100%" height="150px" alt="bubbles"/>
+  <img src="https://img.shields.io/badge/-💭-ff6ec7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-💬-6a11cb?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-🔵-00c6ff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-🟣-ff69b4?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
 ## 📊 Dashboard Overview  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-💭-ff6ec7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-💬-6a11cb?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-🔵-00c6ff?style=for-the-badge&logo=github" />
+</p>
 
 <div align="center">
 
@@ -28,6 +37,12 @@
 | 🏆 **Achievements**| Open Source Projects, Academic Excellence |
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-💭-ff6ec7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-💬-6a11cb?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-🔵-00c6ff?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
@@ -63,6 +78,13 @@
 ✅ Quantum Computing Basics → Circuits & Gates  
 🚧 Quantum Optimization & Streamlit Apps (In Progress)  
 🔜 Publish Research Papers in AI/ML  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-💭-ff6ec7?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-💬-6a11cb?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-🔵-00c6ff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-🟣-ff69b4?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
