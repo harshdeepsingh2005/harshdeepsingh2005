@@ -1,114 +1,110 @@
-<!-- Gradient Banner -->
+<!-- Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Harshdeep%20Singh&fontAlign=50&fontAlignY=40&color=gradient&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=70&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Harshdeep%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<!-- Floating Bubbles Background -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshdeepsingh2005/harshdeepsingh2005/main/assets/bubbles.svg" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI/ML+Engineer+👨‍💻;Full+Stack+Developer+🌐;Open+Source+Contributor+🚀;Hackathon+Builder+🏆;Always+Learning+%26+Exploring+💡" alt="Typing SVG" />
 </p>
 
 ---
 
+<!-- Bubbles Effect -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshdeepsingh2005/harshdeepsingh2005/main/bubbles.svg" width="100%" height="150px" alt="bubbles"/>
+</p>
+
+---
+
+## 📊 Dashboard Overview  
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Link-Here-FF6AC1?style=for-the-badge&logo=firefox&logoColor=white)](#)  
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Harshdeep%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshdeep-singh-28a4a6283/)  
-[![Email](https://img.shields.io/badge/📧%20Email-Harshdeep-Red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshdeepsinghsabharwal@gmail.com)  
-![Visitors](https://img.shields.io/badge/dynamic/json?color=36BCF7&label=🌍%20Visitors&query=value&url=https://api.countapi.xyz/hit/harshdeepsingh2005/readme)  
+| **Category**       | **Details** |
+|--------------------|-------------|
+| 🎓 **Education**   | AI & ML Major |
+| 💼 **Focus Areas** | Reinforcement Learning, CX Simulations, Full-Stack AI Apps |
+| 🚀 **Hackathons**  | [Google Chrome Built-in AI Challenge 2025](https://chromeai.devpost.com) |
+| 🌱 **Currently**   | Building **CX-Twin**: AI Customer Simulation Engine |
+| 🏆 **Achievements**| Open Source Projects, Academic Excellence |
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🛠️ Tech Stack  
 
-<div align="center">
-
-💡 Passionate about **AI/ML, Reinforcement Learning, and Full-Stack Development**  
-⚡ Currently building **CX-Twin**, a **Customer Journey Simulator** using **Q-Learning & DQN**  
-🎯 Goal: To merge **real-world AI** with **beautiful UX**  
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,flask,fastapi,react,js,html,css,git,github,mysql,sqlite,aws,vercel" />
+</p>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+## 📈 GitHub Analytics  
 
-## 🛠 Tech Stack  
-
-<div align="center">
-
-| Languages | AI/ML | Web/Frameworks | Tools |
-|-----------|--------|----------------|--------|
-| 🐍 Python, ⚡ JavaScript, ☕ Java | 🤖 TensorFlow, 🔥 PyTorch, 📊 Scikit-learn | ⚛️ React, 🧩 Flask, 🌐 Node.js | 🐧 Linux, 🐳 Docker, 🌀 Git |
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdeepsingh2005&theme=tokyonight&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeepsingh2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 📂 Featured Projects  
+## 🏆 Trophies  
 
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **🤖 CX-Twin** | Customer Experience Simulator (Q-Learning & DQN) | Python · RL · JSON Logs | 🚀 Active |
-| **📈 Reddit Stock Bot** | Reddit Sentiment + Stock Simulation | Python · FinBERT · Alpaca API | ✅ Complete |
-| **🚮 Waste Management** | Civic Reminder App | JS · Calendar API | 🛠 In Progress |
-| **🎟 BLUR Box** | Booking + Snack Pre-booking | Full-Stack Web | ✅ Complete |
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=tokyonight&margin-w=15&margin-h=15&column=6" />
+</p>
 
 ---
 
-## 📊 GitHub Dashboard  
+## 📚 Learning Roadmap  
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=radical&hide_border=true&border_radius=20)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=harshdeepsingh2005&theme=radical&hide_border=true&border_radius=20)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeepsingh2005&layout=compact&theme=radical&hide_border=true&border_radius=20)  
-
-</div>
+✅ Reinforcement Learning → DQN → CX Simulations  
+✅ Quantum Computing Basics → Circuits & Gates  
+🚧 Quantum Optimization & Streamlit Apps (In Progress)  
+🔜 Publish Research Papers in AI/ML  
 
 ---
 
-## 🏆 Achievements  
+## 🌟 Highlighted Projects  
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=radical&margin-w=15&no-bg=true&no-frame=true)
-
-</div>
+🔹 **CX-Twin** – Customer Journey Simulation with DQN  
+🔹 **Civitas** – Offline-First Disaster Management PWA  
+🔹 **AI-Powered Dashboards** – Integrating ML Models into Web Apps  
 
 ---
 
-## 📫 Contact with Me  
+## ✨ Fun Extras  
 
-<div align="center">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-**LinkedIn:** [Harshdeep Singh](https://www.linkedin.com/in/harshdeep-singh-28a4a6283/)  
-**Email:** [harshdeepsinghsabharwal@gmail.com](mailto:harshdeepsinghsabharwal@gmail.com)  
-**Portfolio:** *(Add your portfolio link here)*  
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshdeepsingh2005&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🎶 Fun Corner  
+## 🌐 Connect With Me  
 
-<div align="center">
-
-🎧 Music fuels my code (Lofi + EDM)  
-🌍 Dreaming of AI-powered social good & open source  
-💡 Motto: *“Code it, break it, learn it, rebuild it.”*  
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshdeep-singh-28a4a6283/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:harshdeepsinghsabharwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshdeep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-ff69b4?style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
 </p>
