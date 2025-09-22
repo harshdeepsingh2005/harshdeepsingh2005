@@ -1,34 +1,36 @@
-<!-- Dashboard Header -->
-<h1 align="center">📊 Harshdeep Singh's Developer Dashboard</h1>
+<!-- Fancy Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI/ML+Engineer;Full-Stack+Developer;Open-Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshdeep%20Singh&fontAlign=50&fontAlignY=40&color=gradient&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=65&animation=twinkling" />
 </p>
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-36BCF7?style=for-the-badge)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshdeep-singh)  
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:harshdeep@example.com)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=harshdeepsingh2005&style=for-the-badge)  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF6AC1?style=for-the-badge&logo=firefox&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshdeep-singh)  
+[![Email](https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshdeep@example.com)  
+![Visitors](https://img.shields.io/badge/dynamic/json?color=36BCF7&label=🌍%20Visitors&query=value&url=https://api.countapi.xyz/hit/harshdeepsingh2005/readme)  
 
 </div>
 
 ---
 
+<!-- About Section -->
 ## 🧑‍💻 About Me  
 
 <div align="center">
 
 💡 Passionate about **AI/ML, Reinforcement Learning, and Full-Stack Development**  
 ⚡ Currently building **CX-Twin**, a **customer journey simulator** using **Q-Learning & DQN**  
-🌱 Exploring **AI deployment pipelines** with Docker, Flask & GitHub Actions  
-🎯 Goal: Build **real-world AI systems** that combine intelligence + usability  
+🎯 Goal: To merge **real-world AI** with **beautiful UX**  
 
 </div>
 
 ---
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 ## 🛠 Tech Stack  
 
@@ -36,48 +38,40 @@
 
 | Languages | AI/ML | Web/Frameworks | Tools |
 |-----------|-------|----------------|-------|
-| Python 🐍, JavaScript ⚡, Java ☕ | TensorFlow, PyTorch, Scikit-learn | React, Flask, Node.js | Git, Docker, Linux, VS Code |
+| 🐍 Python, ⚡ JavaScript, ☕ Java | 🤖 TensorFlow, 🔥 PyTorch, 📊 Scikit-learn | ⚛️ React, 🧩 Flask, 🌐 Node.js | 🐧 Linux, 🐳 Docker, 🌀 Git |
 
 </div>
 
 ---
 
+<!-- Projects -->
 ## 📂 Featured Projects  
 
 <div align="center">
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **🤖 CX-Twin** | Customer Experience Simulator with Q-Learning & DQN | Python · RL · JSON Logs | 🚀 Active |
-| **📈 Reddit Stock Bot** | Analyzes Reddit sentiment & simulates trading | Python · FinBERT · Alpaca API | ✅ Complete |
-| **🚮 Waste Management System** | Civic reminder app for disposal schedules | Web · JS · Calendar API | 🛠 In Progress |
-| **🎟 BLUR Box** | Booking & rental site with snack pre-booking | Full-Stack Web | ✅ Complete |
+| **🤖 CX-Twin** | Customer Experience Simulator (Q-Learning & DQN) | Python · RL · JSON Logs | 🚀 Active |
+| **📈 Reddit Stock Bot** | Reddit Sentiment + Stock Simulation | Python · FinBERT · Alpaca API | ✅ Complete |
+| **🚮 Waste Management** | Civic Reminder App | JS · Calendar API | 🛠 In Progress |
+| **🎟 BLUR Box** | Booking + Snacks Pre-booking | Full-Stack Web | ✅ Complete |
 
 </div>
 
 ---
 
-## 🌌 AI Journey  
-
-<div align="center">
-
-- 🔹 Built **multi-label emotion classifiers** with *GoEmotions* dataset  
-- 🔹 Compared **VADER** vs **FinBERT** for sentiment analysis  
-- 🔹 Experimented with **Reinforcement Learning agents (Q-Learning/DQN)**  
-- 🔹 Learning **hybrid models** (Reinforcement + Supervised)  
-- 🔹 Deploying with **Flask APIs + Docker + CI/CD**  
-
-</div>
-
----
+<!-- Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
+</p>
 
 ## 📊 GitHub Dashboard  
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&card_width=400)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=harshdeepsingh2005&theme=tokyonight&hide_border=true&border_radius=12&card_width=400)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeepsingh2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=radical&hide_border=true&border_radius=20)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=harshdeepsingh2005&theme=radical&hide_border=true&border_radius=20)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeepsingh2005&layout=compact&theme=radical&hide_border=true&border_radius=20)  
 
 </div>
 
@@ -87,34 +81,26 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=onedark&no-frame=true&row=1&column=6&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=radical&margin-w=15&no-bg=true&no-frame=true)
 
 </div>
 
 ---
 
-## 📫 Contact Me  
+<!-- Contact -->
+## 📫 Connect with Me  
 
 <div align="center">
 
-**LinkedIn:** [Harshdeep Singh](https://linkedin.com/in/harshdeep-singh)  
-**Email:** [harshdeep@example.com](mailto:harshdeep@example.com)  
-**Portfolio:** *(Add your portfolio link here)*  
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/harshdeep-singh)  
+[![Email](https://img.shields.io/badge/Say%20Hello!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:harshdeep@example.com)  
+[![Portfolio](https://img.shields.io/badge/My%20Work-FF6AC1?style=for-the-badge&logo=google-chrome&logoColor=white)](#)  
 
 </div>
 
 ---
 
-## 🎶 Fun Corner  
-
-<div align="center">
-
-🎧 Music fuels my code (Lofi + EDM)  
-🌍 Dreaming of **AI for social good**  
-💡 Motto: *“Code it, break it, learn it, rebuild it.”*  
-
-</div>
-
----
-
-⭐ From **Harshdeep Singh** — *Building with balance: Tech + Creativity + AI*  
+<!-- Fun Ending -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&animation=twinkling"/>
+</p>
