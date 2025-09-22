@@ -20,8 +20,8 @@
       </radialGradient>
     </defs>
 
-    <circle cx="100" cy="180" r="20" fill="url(#bubbleGradient)">
-      <animate attributeName="cy" values="180;40;180" dur="10s" repeatCount="indefinite"/>
+  <circle cx="100" cy="180" r="20" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="180;40;180" dur="10s" repeatCount="indefinite"/>
   </circle>
   <circle cx="250" cy="190" r="15" fill="url(#bubbleGradient)">
     <animate attributeName="cy" values="190;30;190" dur="12s" repeatCount="indefinite"/>
