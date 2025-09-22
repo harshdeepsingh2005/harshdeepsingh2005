@@ -22,19 +22,19 @@
 
     <circle cx="100" cy="180" r="20" fill="url(#bubbleGradient)">
       <animate attributeName="cy" values="180;40;180" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="190" r="15" fill="url(#bubbleGradient)">
-      <animate attributeName="cy" values="190;30;190" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="400" cy="170" r="25" fill="url(#bubbleGradient)">
-      <animate attributeName="cy" values="170;50;170" dur="14s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="550" cy="185" r="18" fill="url(#bubbleGradient)">
-      <animate attributeName="cy" values="185;35;185" dur="16s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="700" cy="175" r="22" fill="url(#bubbleGradient)">
-      <animate attributeName="cy" values="175;25;175" dur="18s" repeatCount="indefinite"/>
-    </circle>
+  </circle>
+  <circle cx="250" cy="190" r="15" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="190;30;190" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="400" cy="170" r="25" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="170;50;170" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="185" r="18" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="185;35;185" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="700" cy="175" r="22" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="175;25;175" dur="18s" repeatCount="indefinite"/>
+  </circle>
   </svg>
 </p>
 
