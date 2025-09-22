@@ -8,34 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=28&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=Hey+There!+👋;I'm+Harshdeep+Singh;AI/ML+Engineer+🤖;Full+Stack+Developer+🌐;Hackathon+Builder+🏆;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
----
-
-<!-- Floating Bubbles (inline SVG animation) -->
+<!-- Floating Bubbles GIF -->
 <p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="150">
-    <defs>
-      <radialGradient id="bubbleGradient" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#ff6ec7" stop-opacity="0.8"/>
-        <stop offset="100%" stop-color="#6a11cb" stop-opacity="0.1"/>
-      </radialGradient>
-    </defs>
-
-  <circle cx="100" cy="180" r="20" fill="url(#bubbleGradient)">
-    <animate attributeName="cy" values="180;40;180" dur="10s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="190" r="15" fill="url(#bubbleGradient)">
-    <animate attributeName="cy" values="190;30;190" dur="12s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="400" cy="170" r="25" fill="url(#bubbleGradient)">
-    <animate attributeName="cy" values="170;50;170" dur="14s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="550" cy="185" r="18" fill="url(#bubbleGradient)">
-    <animate attributeName="cy" values="185;35;185" dur="16s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="175" r="22" fill="url(#bubbleGradient)">
-    <animate attributeName="cy" values="175;25;175" dur="18s" repeatCount="indefinite"/>
-  </circle>
-  </svg>
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="100%" height="150px" alt="bubbles"/>
 </p>
 
 ---
