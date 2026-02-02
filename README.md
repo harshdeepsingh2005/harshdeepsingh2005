@@ -1,59 +1,55 @@
-<!-- Hero Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff6ec7,100:6a11cb&height=220&section=header&text=Harshdeep%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20×%20Systems%20×%20Simulation&descAlignY=60&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,100:6a11cb&height=200&text=Harshdeep%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=40" />
 </p>
 
-<!-- Dynamic Identity -->
+<!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=FF6EC7&center=true&vCenter=true&width=900&lines=Building+AI+that+behaves+like+humans;Reinforcement+Learning+%7C+CX+Simulations;Full-Stack+AI+Engineer;Research-Driven+Developer;Hackathon+Builder+%26+Systems+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Reinforcement+Learning+%7C+CX+Simulation;Full-Stack+AI+Developer;Research-Oriented+Builder" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
 <div align="center">
 
-I don’t just **train models** —  
-I **design systems** that *learn, adapt, and evolve*.
+I build **AI systems that simulate real behavior**,  
+not just models that predict numbers.
 
-Currently focused on **Reinforcement Learning**,  
-**Customer Behavior Simulation**, and **AI-powered web systems**  
-that feel **alive**, not scripted.
+Focused on **Reinforcement Learning**,  
+**Customer Experience Simulation**,  
+and **production-ready AI applications**.
 
 </div>
 
 ---
 
-## 🎯 Current Mission
+## 🎯 Current Focus
 
 <div align="center">
 
-| Focus | What I’m Doing |
-|------|---------------|
-| 🧪 **Core Research** | Reinforcement Learning, DQN, Simulation Environments |
-| 🧠 **Flagship Project** | **CX-Twin** – AI Customer Journey Simulation Engine |
-| 🏆 **Hackathons** | Google Chrome Built-in AI Challenge 2025 |
-| 📄 **Academics** | Preparing AI/ML research publications |
-| 🛠 **Engineering** | Full-Stack ML apps with real deployment |
+| Area | Work |
+|----|----|
+| 🧪 Research | Reinforcement Learning, DQN |
+| 🚀 Project | **CX-Twin** – AI Customer Simulation Engine |
+| 🏆 Hackathon | Google Chrome Built-in AI Challenge 2025 |
+| 📄 Goal | AI/ML Research Papers |
+| 🌐 Stack | Full-Stack AI Systems |
 
 </div>
 
 ---
 
-## 🧰 Tech I Actually Use
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,react,js,html,css,git,github,mysql,sqlite,aws,vercel&theme=dark" />
-</p>
-
-<p align="center">
-  <i>Bias toward tools that scale, not just demo.</i>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,flask,fastapi,react,js,html,css,git,github,mysql,sqlite,aws&theme=dark" />
 </p>
 
 ---
 
-## 📊 Engineering Footprint
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdeepsingh2005&theme=radical&hide_border=true" />
@@ -66,46 +62,24 @@ that feel **alive**, not scripted.
 
 ---
 
-## 🏗️ Projects That Define Me
-
-🔹 **CX-Twin**  
-AI-driven customer journey simulation using DQN, stochastic rewards, and behavioral modeling
-
-🔹 **Civitas**  
-Offline-first disaster management PWA with resilient architecture
-
-🔹 **AI Dashboards**  
-Production-ready ML systems embedded into modern web apps
-
----
-
-## 🧭 Learning Trajectory
-
-✅ Reinforcement Learning → Q-Learning → DQN  
-✅ Customer Simulation & Behavior Modeling  
-✅ Quantum Computing Foundations  
-🚧 Quantum Optimization + Streamlit Integration  
-🔜 Peer-reviewed AI/ML Research Papers  
-
----
-
-## 🏆 Milestones
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=radical&no-frame=true&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshdeepsingh2005&theme=radical&no-frame=true&column=4" />
 </p>
 
 ---
 
-## 💬 Philosophy
+## 🧭 Learning Path
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+✅ RL → Q-Learning → DQN  
+✅ Customer Simulation  
+🚧 Quantum Optimization  
+🔜 AI/ML Research Papers  
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshdeep-singh-28a4a6283/">
@@ -114,12 +88,9 @@ Production-ready ML systems embedded into modern web apps
   <a href="mailto:harshdeepsinghsabharwal@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Building%20in%20Public-ff69b4?style=for-the-badge" />
-  </a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a11cb,100:ff6ec7&height=90&section=footer&text=Designing%20Intelligent%20Systems%20—%20One%20Iteration%20at%20a%20Time&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:ff6ec7&height=120&section=footer" />
 </p>
