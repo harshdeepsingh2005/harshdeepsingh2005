@@ -87,10 +87,9 @@ My goal is to build AI systems that behave robustly in complex environments rath
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeepsingh2005&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshdeepsingh2005&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdeepsingh2005&layout=compact&theme=default&hide_border=true" />
 </p>
-
 ---
 
 ## 🤝 Connect
